@@ -1,2 +1,1 @@
 this is in new file
-Git revert 2

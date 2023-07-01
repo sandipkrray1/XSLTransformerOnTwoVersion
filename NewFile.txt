@@ -1,2 +1,1 @@
 new text in the file for test
-Git revert1
