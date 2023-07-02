@@ -1,1 +1,3 @@
 this is in new file for testing merging.
+this is in new file
+Git revert 2
